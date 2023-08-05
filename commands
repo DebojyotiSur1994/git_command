@@ -1,0 +1,23 @@
+# Git basic commands
+
+git init
+
+git add
+
+git status
+
+git branch
+
+git commit -m "comments"
+
+git restore
+
+git log
+
+git checkout <branch name>
+
+git pull
+
+git push
+
+git clone
